@@ -39,7 +39,7 @@ brew upgrade <package-name>
 ```
 
 
-## Splunk packages for Homebrew
+## Splunk packages for Homebrew.
 
 | Package name | Description          |
 |:------------ |:-------------------- |
